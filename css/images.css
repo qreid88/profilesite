@@ -1,0 +1,12 @@
+.profilePic{
+	height: 300px;
+	width: 300px;
+	margin-bottom: 2%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+*{
+  background-color: black;
+}
