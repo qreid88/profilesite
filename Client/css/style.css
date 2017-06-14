@@ -957,6 +957,7 @@
 		width: 100%;
 		z-index: 10000;
 		position: relative;
+
 	}
 
 		#header h1 {
@@ -967,6 +968,7 @@
 			margin: 0;
 			padding: 0;
 			position: absolute;
+
 		}
 
 			#header h1 a {
